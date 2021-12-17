@@ -1,0 +1,8 @@
+#自动打包命令
+pyinstaller -D -F  D:\\workProject\pthon\autoPunch\autoPunch_weixin.py
+
+#自动更新文件
+pip freeze > requirements.txt
+
+#更新日历
+pip install --upgrade chinese_calendar

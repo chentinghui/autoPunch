@@ -1,0 +1,16 @@
+altgraph==0.17
+APScheduler==3.7.0
+certifi==2019.11.28
+chardet==3.0.4
+chinesecalendar==1.5.0
+future==0.18.2
+idna==2.9
+pefile==2021.5.24
+pyinstaller==4.3
+pyinstaller-hooks-contrib==2021.1
+pytz==2019.3
+pywin32-ctypes==0.2.0
+requests==2.23.0
+six==1.14.0
+tzlocal==2.0.0
+urllib3==1.25.8
